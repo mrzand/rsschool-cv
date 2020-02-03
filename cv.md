@@ -3,8 +3,8 @@
 <h2>Andrey Zasulevich</h2>
 
 <h3>Contact:</h3>
-phone:  *+375445433941*
-email: *andreyzasulevichdev@gmail.com*
+* phone:  *+375445433941*
+* email: *andreyzasulevichdev@gmail.com*
 
 <h3>About me:</h3>
 Executive, assiduous, calm.
