@@ -1,4 +1,4 @@
-<h1>**Frontend developer cv**</h1>
+<h1>Frontend developer cv</h1>
 
 <h2>Andrey Zasulevich</h2>
 
